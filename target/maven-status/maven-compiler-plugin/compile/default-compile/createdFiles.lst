@@ -1,0 +1,16 @@
+ru\moongl\minecraft\advanceditems\commands\Commands.class
+ru\moongl\minecraft\advanceditems\commands\tabcompleters\CommandAdiCompleter.class
+ru\moongl\minecraft\advanceditems\menus\BorderInventory.class
+ru\moongl\minecraft\advanceditems\menus\MenuAdi.class
+ru\moongl\minecraft\advanceditems\AdvancedItems.class
+ru\moongl\minecraft\advanceditems\utils\ItemRarity.class
+ru\moongl\minecraft\advanceditems\utils\ItemBuilder$1.class
+ru\moongl\minecraft\advanceditems\commands\CommandEnum.class
+ru\moongl\minecraft\advanceditems\Register.class
+ru\moongl\minecraft\advanceditems\commands\CommandAdi.class
+ru\moongl\minecraft\advanceditems\utils\ItemBuilder.class
+ru\moongl\minecraft\advanceditems\chat\MessageTypes.class
+ru\moongl\minecraft\advanceditems\listeners\CustomInventoryListening.class
+ru\moongl\minecraft\advanceditems\menus\AbstractInventory.class
+ru\moongl\minecraft\advanceditems\items\ItemCustomSword.class
+ru\moongl\minecraft\advanceditems\listeners\PlayerListener.class

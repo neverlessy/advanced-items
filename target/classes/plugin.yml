@@ -1,0 +1,12 @@
+name: AdvancedItems
+version: '1.0-SNAPSHOT'
+main: ru.moongl.minecraft.advanceditems.AdvancedItems
+api-version: 1.19
+authors: [ neverlessy, MoonGlance ]
+description: Plugin for additional subject settings and built-in statistics.
+website: https://moongl.ru
+
+commands:
+  adi:
+    description: kavoha
+    usage: /adi <menu/create/delete> <itemType/name>
